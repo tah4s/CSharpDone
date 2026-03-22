@@ -4,4 +4,5 @@
   <Project Path="03_MakingDecision/03_MakingDecision.csproj" Id="30d88c73-8241-47ab-b58c-04f3987f58f4" />
   <Project Path="06_Arrays/07_ForeachLoop.csproj" Id="a17d4e78-3bbf-449e-b928-49be0b3b9e28" />
   <Project Path="09_DatabaseProject/0X_Classlar.csproj" Id="77dd3e39-a923-45ae-8c7d-1da26a28aaf1" />
+  <Project Path="portfolio/portfolio.csproj" Id="5e3d4d2a-c89a-46ae-85aa-865dcfe8f190" />
 </Solution>
