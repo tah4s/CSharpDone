@@ -2,4 +2,5 @@
   <Project Path="01_P/01_P.csproj" />
   <Project Path="02_Veriables/02_Veriables.csproj" Id="b76a9a25-9ceb-4798-82a0-951b181a1a55" />
   <Project Path="03_MakingDecision/03_MakingDecision.csproj" Id="30d88c73-8241-47ab-b58c-04f3987f58f4" />
+  <Project Path="06_Arrays/07_ForeachLoop.csproj" Id="a17d4e78-3bbf-449e-b928-49be0b3b9e28" />
 </Solution>
